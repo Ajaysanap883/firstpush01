@@ -7,7 +7,7 @@ const navbar = () => {
  
 
   return (
-    <div className='relative px-[10vw]  w-screen flex justify-between items-center border-b-[3px] border-[#163a59]'>
+    <div className='relative px-[10vw]  w-screen flex justify-between items-center border-b-[3px] border-[hsl(208,60%,22%)]'>
      <a href="# "><img className='logo w-[230px] h-[55px]' src={Logo}  /></a>
 
     <Btn />
